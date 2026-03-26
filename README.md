@@ -1,6 +1,6 @@
 # NYC Taxi Demand and Pricing Forecasting
 
-This project uses historical New York City taxi data to forecast demand and pricing patterns, helping drivers make more informed decisions about where and when to position themselves for the next ride.
+This project uses historical New York City taxi data to forecast demand and pricing patterns, helping drivers make more informed decisions about where and when to position themselves for the next ride. Developed as part of a University of Chicago Applied Data Science Time Series Analysis and Forecasting course.
 
 ## Overview
 
