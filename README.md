@@ -2,6 +2,7 @@
 
 This project uses historical New York City taxi data to forecast demand and pricing patterns, helping drivers make more informed decisions about where and when to position themselves for the next ride. Developed as part of a University of Chicago Applied Data Science Time Series Analysis and Forecasting course.
 
+### By: Anisa Dye, Emanda Bisrat, Mia Mac, Issac Chang 
 ## Overview
 
 Taxi and for-hire vehicle drivers face significant uncertainty when deciding where to operate throughout the day. Poor positioning can lead to:
